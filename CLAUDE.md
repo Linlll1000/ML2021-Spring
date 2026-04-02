@@ -31,7 +31,5 @@
 - 筆記用 Markdown 語法，方便放進 Obsidian
 ## 目前進度
 - [x] GitHub repo 建立完成
-- [x] HW1 資料夾結構建好
-- [ ] HW1 程式碼（Simple Baseline）
-- [ ] HW1 程式碼（Medium Baseline）
-- [ ] HW1 程式碼（Strong Baseline）
+- [x] HW1 完成
+- [ ] HW2 完成
