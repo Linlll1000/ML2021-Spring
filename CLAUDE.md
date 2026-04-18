@@ -12,7 +12,7 @@
 7. 修改超過 3 個文件，先拆成小任務
 8. 出 bug 時，先寫能重現的測試再修復
 9. 每次被糾正後，反思並制定不再犯的計劃
-10. Codex 會在你完成後檢查你的輸出
+
 
 
 # ML2021-Spring 專案設定
@@ -32,8 +32,3 @@
 - 專有名詞用英文（例如 Loss Function、Gradient Descent）
 - 每段 code 都要有詳細註解，因為我是 PyTorch 初學者
 - 筆記用 Markdown 語法，方便放進 Obsidian
-## 目前進度
-- [x] GitHub repo 建立完成
-- [x] HW1 完成
-- [x] HW2 完成
-- [ ] HW3 完成
